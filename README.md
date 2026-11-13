@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Russel Orion Exelent De Misbach
 
-<!--
-**orionrusel-rgb/orionrusel-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer | HTML, CSS & JavaScript | Student at SMK Telkom Sidoarjo**
 
-Here are some ideas to get you started:
+I'm a grade XII student at SMK Telkom Sidoarjo (Telecommunication Access Network Engineering, Programming focus) who loves turning designs into responsive, animated websites. I also enjoy teaching — I've taught Scratch programming at Anugerah School and led an IoT workshop (ESP32 & Arduino) at SMPN 1 Bojonegoro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm doing
+
+- Building responsive websites from design references with HTML, CSS & JavaScript
+- Preparing for university — interested in Business Informatics
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## 📌 Featured Projects
+
+| Project | Description | Live Demo |
+| --- | --- | --- |
+| **OrionCode Academy** | IT & Coding Academy bootcamp website — filterable courses, pricing, graduates | [Live](https://orionrusel-rgb.github.io/OrionCode-Academy/) |
+| **Hidden Wonders — Discover Indonesia** | Responsive travel landing page sliced from a design | [Live](https://orionrusel-rgb.github.io/Slicing-Website/) |
+| **orion-porto** | Collection of my early web projects | [Repo](https://github.com/orionrusel-rgb/orion-porto) |
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/russel-orion-exelent-de-misbach-827890367/)
+- 📍 Sidoarjo, East Java, Indonesia
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orionrusel-rgb&show_icons=true&theme=default)
