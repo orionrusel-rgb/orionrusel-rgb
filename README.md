@@ -19,9 +19,13 @@ I'm a grade XII student at SMK Telkom Sidoarjo (Telecommunication Access Network
 
 | Project | Description | Live Demo |
 | --- | --- | --- |
+| **Axel Portfolio** | Vision Portfolio — exact-match rebuild of the Lucas Reis reference, with my real photos and projects | [Live](https://orionrusel-rgb.github.io/axel-portfolio/) |
 | **OrionCode Academy** | IT & Coding Academy bootcamp website — filterable courses, pricing, graduates | [Live](https://orionrusel-rgb.github.io/OrionCode-Academy/) |
+| **Orion Travel** | Travel agency website — Indonesian destinations, search, filters and booking form | [Live](https://orionrusel-rgb.github.io/orion-travel/) |
+| **Podcast Raditya Dika** | Podcast website with a real YouTube player and real episodes | [Live](https://orionrusel-rgb.github.io/podcast-raditya-dika/) |
 | **Hidden Wonders — Discover Indonesia** | Responsive travel landing page sliced from a design | [Live](https://orionrusel-rgb.github.io/Slicing-Website/) |
-| **orion-porto** | Collection of my early web projects | [Repo](https://github.com/orionrusel-rgb/orion-porto) |
+| **Portofolio** | Personal portfolio website with admin control | [Live](https://orionrusel-rgb.github.io/portofolio/) |
+| **ATHERION** | Subsurface Hydro-Thermal Energy — scroll-driven interactive experience | [Live](https://orionrusel-rgb.github.io/atherion/) |
 
 ## 📫 Connect with me
 
